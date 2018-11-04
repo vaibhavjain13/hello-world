@@ -1,2 +1,3 @@
 # hello-world
 Some basic stuff...
+This is just the beginning of a beginning. Moths, lizards in a state of flying. The world is reaping and I'm playing my part in it
